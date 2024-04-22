@@ -1,0 +1,6 @@
+dataset_dir: "./datasets"
+batch_size: 64  
+epochs: 100
+image_size: 96
+resnet: "resnet50"
+workers: 8
